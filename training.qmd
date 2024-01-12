@@ -1,0 +1,11 @@
+---
+title: "Training"
+---
+
+RHESSys training classes are designed to give participants the modeling skills and understanding to move forward with their own research projects. Most training focuses on basic RHESSys functionality (e.g. model setup, simulation, and analysis), however, classes on more advanced topics may occasionally be available. RHESSys training is usually held virtually, however, in-person sessions may be arranged under special circumstances.
+
+To be sure you receive notice of upcoming training classes, sign up for the [RHESSys mailing list](about_us.qmd).
+
+## 2024
+
+There are no RHESSy trainings scheduled at this time.

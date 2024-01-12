@@ -1,0 +1,9 @@
+---
+title: "Publications"
+bibliography: RHESSys_citations.bib
+---
+
+RHESSys has been used in over 100 studies. The following list of publications shows the range of studies used with RHESSys.
+
+**In Development**
+

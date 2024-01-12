@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "RHESSys"
+  description: "RHESSys is a GIS-based, hydro-ecological modeling framework designed to simulate carbon, water and nutrient fluxes."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: rhessys.qmd
+        text: RHESSys
+      - href: conferences.qmd
+        text: Conferences
+      - href: training.qmd
+        text: Training
+      - href: publications.qmd
+        text: Publications
+      - href: about_us.qmd
+        text: About Us
+
+    right:
+      - icon: code-slash
+        href: https://github.com/RHESSys/rhessys.github.io
+      - icon: github
+        href: https://github.com/RHESSys/RHESSys
+
+format:
+  html:
+    theme: cosmo
+    #fontsize: 1em
+    css: styles.css
+    toc: true
+
+
+

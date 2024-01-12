@@ -1,0 +1,19 @@
+---
+title: "About Us"
+---
+
+RHESSys is an open-source ecohydrologic model that is distributed freely via GitHub. The RHESSys community consists of researchers from numerous institutions who collaboratively support RHESSys through model development, maintenance, and use. Institutions with active developers include:
+
+- University of Virginia
+- University of California, Santa Barbara
+- University of Washington, Tacoma
+- Washington State University
+- University of Nevada, Reno
+- University of California, Merced
+
+## Mailing list
+
+If you want to keep abreast of RHESSys developments and/or upcoming events, please subscribe to the RHESSys mailing list by contacting Ryan Bart: rbart3 [@] ucmerced.edu
+
+
+

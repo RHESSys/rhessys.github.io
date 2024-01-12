@@ -1,0 +1,13 @@
+---
+title: "Conferences"
+---
+
+RHESSys conferences provide an opportunity to share, learn, and network with other RHESSys modelers.
+
+To get announcements about upcoming conferences, please sign up for the [RHESSys mailing list](about_us.qmd).
+
+## 2024
+
+[RHESSys Conference 2024](conferences/conference_2024.qmd) will be held May 1-2, 2024. The abstract deadline will be 15 March 2024.
+
+
