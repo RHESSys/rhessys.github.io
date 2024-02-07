@@ -2,17 +2,18 @@
 title: "RHESSys Conference 2024"
 ---
 
-
 **Location: Virtual**  
 **Date: 1-2 May 2024**  
 **Registration Cost: FREE**  
 **Abstract Deadline: 15 March 2024**  
 
+**[Click here to submit abstract](https://docs.google.com/forms/d/1lFwqLA4UwSs2ujnCv9lcJ95G_gpzYJc1PCyW6nWk-wc/)**  
+
 RHESSys Conference 2024 seeks to bring together members of the RHESSys community to share, learn, and network with one another. The conference will be held virtually on 1-2 May 2024. We welcome presentations on all topics related to RHESSys, including water cycling, carbon cycling, nutrient cycling, and/or fire, in both natural and urban environments. We are also interested in demonstrations of new model functionality.
 
 We expect to have talks in two formats (regular and lighting) and a roundtable discussion. The regular talks will be an opportunity to describe projects conducted with RHESSys or new technical features. The lighting slots are perfect for those just starting out with RHESSys. No results needed! Just tell us how you are applying or thinking about applying the model.
 
-We encourage you to start thinking about an abstract. The conference will be an excellent opportunity to highlight your work with fellow RHESSys modelers. **The deadline for submitting an abstract for a talk will be 15 March 2024. The abstract submission form will be available on this webpage at the beginning of February**.
+We encourage you to start thinking about an abstract. The conference will be an excellent opportunity to highlight your work with fellow RHESSys modelers. **The deadline for submitting an abstract for a talk will be 15 March 2024. The abstract submission form is available [here](https://docs.google.com/forms/d/1lFwqLA4UwSs2ujnCv9lcJ95G_gpzYJc1PCyW6nWk-wc/).**
 
 Finally, since this is the first year that we are holding a RHESSys conference, please help us spread the word. Feel free to pass this distribution to anyone who might be interested.
 
