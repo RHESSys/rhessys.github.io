@@ -1,7 +1,42 @@
 [
   {
+    "objectID": "conferences/conference_2024.html",
+    "href": "conferences/conference_2024.html",
+    "title": "RHESSys Conference 2024",
+    "section": "",
+    "text": "Location: Virtual\nDate: 1-2 May 2024\nRegistration Cost: FREE\nAbstract Deadline: 15 March 2024\nClick here to submit abstract\nRHESSys Conference 2024 seeks to bring together members of the RHESSys community to share, learn, and network with one another. The conference will be held virtually on 1-2 May 2024. We welcome presentations on all topics related to RHESSys, including water cycling, carbon cycling, nutrient cycling, and/or fire, in both natural and urban environments. We are also interested in demonstrations of new model functionality.\nWe expect to have talks in two formats (regular and lighting) and a roundtable discussion. The regular talks will be an opportunity to describe projects conducted with RHESSys or new technical features. The lighting slots are perfect for those just starting out with RHESSys. No results needed! Just tell us how you are applying or thinking about applying the model.\nWe encourage you to start thinking about an abstract. The conference will be an excellent opportunity to highlight your work with fellow RHESSys modelers. The deadline for submitting an abstract for a talk will be 15 March 2024. The abstract submission form is available here.\nFinally, since this is the first year that we are holding a RHESSys conference, please help us spread the word. Feel free to pass this distribution to anyone who might be interested.\nWe hope to see you in May!\nCheers, Ryan, Ojas, Sloane, and Roy\nRyan Bart | UC Merced\nOjas Sarup | UC Santa Barbara\nSloane Stephenson | UC Santa Barbara\nRuoyu Zhang | University of Virginia\nFor conference inquiries or to get on the RHESSys email list, please email Ryan Bart: rbart3 [@] ucmerced.edu."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "RHESSys has been used in over 100 studies. The following list of publications shows the range of studies used with RHESSys.\nIn Development"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "RHESSys conferences provide an opportunity to share, learn, and network with other RHESSys modelers.\nTo get announcements about upcoming conferences, please sign up for the RHESSys mailing list."
+  },
+  {
+    "objectID": "conferences.html#section",
+    "href": "conferences.html#section",
+    "title": "Conferences",
+    "section": "2024",
+    "text": "2024\nRHESSys Conference 2024 will be held May 1-2, 2024. The abstract deadline will be 15 March 2024."
+  },
+  {
     "objectID": "rhessys.html",
     "href": "rhessys.html",
+    "title": "RHESSys",
+    "section": "",
+    "text": "The Regional Hydro-Ecologic Simulation System (RHESSys) is a GIS-based, hydro-ecological modeling framework designed to simulate carbon, water and nutrient fluxes. By combining a set of physically-based process models and a methodology for partitioning and parameterizing the landscape, RHESSys is capable of modelling the spatial distribution and spatial-temporal interactions between different processes at the watershed scale.\nFeatures of RHESSys\n\nOperates at a daily timestep to capture hydrological fluxes\nRHESSys is primarily written in C. WMFire is written in C++.\nInput/output tools are available in R.\n\nNitrogen cycling is fully integrated with carbon cycling.\nAny variable within the model may be outputted for analysis.\nOutputs can be generated at daily, monthly, and annual timesteps."
+  },
+  {
+    "objectID": "rhessys.html#what-is-rhessys",
+    "href": "rhessys.html#what-is-rhessys",
     "title": "RHESSys",
     "section": "",
     "text": "The Regional Hydro-Ecologic Simulation System (RHESSys) is a GIS-based, hydro-ecological modeling framework designed to simulate carbon, water and nutrient fluxes. By combining a set of physically-based process models and a methodology for partitioning and parameterizing the landscape, RHESSys is capable of modelling the spatial distribution and spatial-temporal interactions between different processes at the watershed scale.\nFeatures of RHESSys\n\nOperates at a daily timestep to capture hydrological fluxes\nRHESSys is primarily written in C. WMFire is written in C++.\nInput/output tools are available in R.\n\nNitrogen cycling is fully integrated with carbon cycling.\nAny variable within the model may be outputted for analysis.\nOutputs can be generated at daily, monthly, and annual timesteps."
@@ -35,20 +70,6 @@
     "text": "Mailing list\nIf you want to keep abreast of RHESSys developments and/or upcoming events, please subscribe to the RHESSys mailing list by contacting Ryan Bart: rbart3 [@] ucmerced.edu"
   },
   {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "Conferences",
-    "section": "",
-    "text": "RHESSys conferences provide an opportunity to share, learn, and network with other RHESSys modelers.\nTo get announcements about upcoming conferences, please sign up for the RHESSys mailing list."
-  },
-  {
-    "objectID": "conferences.html#section",
-    "href": "conferences.html#section",
-    "title": "Conferences",
-    "section": "2024",
-    "text": "2024\nRHESSys Conference 2024 will be held May 1-2, 2024. The abstract deadline will be 15 March 2024."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -77,13 +98,6 @@
     "text": "Upcoming events\nRHESSys Conference 2024 will be held on 1-2 May 2024. Abstract deadline is the 15th of March."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "In Development"
-  },
-  {
     "objectID": "training.html",
     "href": "training.html",
     "title": "Training",
@@ -96,12 +110,5 @@
     "title": "Training",
     "section": "2024",
     "text": "2024\nThere are no RHESSy trainings scheduled at this time."
-  },
-  {
-    "objectID": "conferences/conference_2024.html",
-    "href": "conferences/conference_2024.html",
-    "title": "RHESSys Conference 2024",
-    "section": "",
-    "text": "RHESSys Conference 2024 seeks to bring together members of the RHESSys community to share, learn, and network with one another. The conference will be held virtually on 1-2 May 2024. We welcome presentations on all topics related to RHESSys, including water cycling, carbon cycling, nutrient cycling, and/or fire, in both natural and urban environments. We are also interested in demonstrations of new model functionality.\nWe expect to have talks in two formats (regular and lighting) and a roundtable discussion. The regular talks will be an opportunity to describe projects conducted with RHESSys or new technical features. The lighting slots are perfect for those just starting out with RHESSys. No results needed! Just tell us how you are applying or thinking about applying the model.\nWe encourage you to start thinking about an abstract. The conference will be an excellent opportunity to highlight your work with fellow RHESSys modelers. The deadline for submitting an abstract for a talk will be 15 March 2024. The abstract submission form will be available on this webpage at the beginning of February.\nFinally, since this is the first year that we are holding a RHESSys conference, please help us spread the word. Feel free to pass this distribution to anyone who might be interested.\nWe hope to see you in May!\nCheers, Ryan, Ojas, Sloane, and Roy\nRyan Bart | UC Merced\nOjas Sarup | UC Santa Barbara\nSloane Stephenson | UC Santa Barbara\nRuoyu Zhang | University of Virginia\nFor conference inquiries or to get on the RHESSys email list, please email Ryan Bart: rbart3 [@] ucmerced.edu."
   }
 ]
