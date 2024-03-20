@@ -5,7 +5,7 @@ title: "RHESSys Conference 2024"
 **Location: Virtual**  
 **Date: 1-2 May 2024**  
 **Registration Cost: FREE**  
-**Abstract Deadline: 15 March 2024**  
+**Abstract Deadline: *Extended to 29 March 2024***  
 
 **[Click here to submit abstract](https://docs.google.com/forms/d/1lFwqLA4UwSs2ujnCv9lcJ95G_gpzYJc1PCyW6nWk-wc/)**  
 
@@ -13,7 +13,7 @@ RHESSys Conference 2024 seeks to bring together members of the RHESSys community
 
 We expect to have talks in two formats (regular and lighting) and a roundtable discussion. The regular talks will be an opportunity to describe projects conducted with RHESSys or new technical features. The lighting slots are perfect for those just starting out with RHESSys. No results needed! Just tell us how you are applying or thinking about applying the model.
 
-We encourage you to start thinking about an abstract. The conference will be an excellent opportunity to highlight your work with fellow RHESSys modelers. **The deadline for submitting an abstract for a talk will be 15 March 2024. The abstract submission form is available [here](https://docs.google.com/forms/d/1lFwqLA4UwSs2ujnCv9lcJ95G_gpzYJc1PCyW6nWk-wc/).**
+We encourage you to start thinking about an abstract. The conference will be an excellent opportunity to highlight your work with fellow RHESSys modelers. **The deadline for submitting an abstract for a talk has been extended to 29 March 2024. The abstract submission form is available [here](https://docs.google.com/forms/d/1lFwqLA4UwSs2ujnCv9lcJ95G_gpzYJc1PCyW6nWk-wc/).**
 
 Finally, since this is the first year that we are holding a RHESSys conference, please help us spread the word. Feel free to pass this distribution to anyone who might be interested.
 
@@ -29,5 +29,19 @@ Sloane Stephenson | UC Santa Barbara
 Ruoyu Zhang | University of Virginia  
 
 For conference inquiries or to get on the RHESSys email list, please email Ryan Bart: rbart3 [@] ucmerced.edu.
+
+<br>
+
+----
+
+### Questions about Conference
+
+**What time will the conference be held?**  
+Although the exact times won't be established until the schedule is made, the approximate times will be as follows:  
+- West Coast USA: Morning to early afternoon  
+- East Coast USA: Late morning to late afternoon  
+- Europe: Evening  
+- East Asia and Australia: Middle of night (sorry!)  
+
 
 
