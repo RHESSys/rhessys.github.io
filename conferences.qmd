@@ -8,6 +8,6 @@ To get announcements about upcoming conferences, please sign up for the [RHESSys
 
 ## 2024
 
-[RHESSys Conference 2024](conferences/conference_2024.qmd) will be held May 1-2, 2024. The abstract deadline will be 15 March 2024.
+[RHESSys Conference 2024](conferences/conference_2024.qmd) will be held virtually on May 1-2, 2024.
 
 
